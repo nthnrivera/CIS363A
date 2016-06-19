@@ -1,0 +1,63 @@
+@charset "utf-8";
+/* CSS Document */
+
+h1
+{
+	text-align:center;
+	font-size: 5em;
+	color:#697DCB;
+	text-shadow: 2px 2px #464646;
+	font:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+}
+
+h2
+{
+	text-align:left;
+	font-size: 2em;
+	color:#B02123;	
+}
+
+h3
+{
+	text-align:left;
+	font-size: 2em;
+	color:#E88910
+}
+
+h4
+{
+	text-align:center;
+	font-size: 3em;
+	color:#144D09;
+	text-shadow: 2px 2px #464646;
+	font:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+}
+
+h5
+{
+	text-align:center;
+	font-size: 2em;
+	color:#000000;
+}
+
+#inner
+{
+	width: 40%;
+	margin: 0 auto;
+}
+
+div.center
+{
+	margin: 0 auto;
+	width: 80em;
+}
+
+.img-bubble
+{
+	
+}
+
+.img-center
+{
+	margin:0 auto;	
+}
